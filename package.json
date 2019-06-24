@@ -1,0 +1,24 @@
+{
+  "name": "hackerthon-next",
+  "version": "1.0.0",
+  "description": "hackerthon next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.0.0-rc.0",
+    "@material-ui/icons": "^4.2.1",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-google-charts": "^3.0.13",
+    "react-websocket": "^2.0.1",
+    "socket.io-client": "^2.2.0"
+  }
+}
